@@ -1,0 +1,31 @@
+.Upload_paper{
+  width:7.5in;
+  align-items: flex-start;
+  margin-left: 0% !important;
+  flex-direction: column;
+}
+
+.submitBtn{
+  position:relative;
+  bottom:3.5rem;
+  left:35rem;
+}
+
+.Upload_Info{
+margin-top: 0% !important;
+ width:7.5in;
+}
+
+.viewerPdf{
+  /* margin-top: 0% !important; */
+ bottom:7rem;
+ width:7.5in;
+ max-height:9in;
+}
+.pdfViewAdd{
+ overflow-y: scroll;
+}
+
+.accordion-container{
+ margin-top: 0% !important;
+}
