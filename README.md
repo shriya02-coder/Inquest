@@ -1,6 +1,6 @@
 
 # INQUEST - Virtual Research Assistant
-## *Aid to Women Researchers around the 🌎*
+### *Aid to Women Researchers around the 🌎*
 
 ![image](inquest.jpeg)
 ![image](inquest1.jpeg)
